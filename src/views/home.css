@@ -1,0 +1,234 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-container1 {
+  width: 100%;
+  height: 37px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: #f15757;
+}
+.home-text {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.home-textinput {
+  top: 7px;
+  left: 800px;
+  width: var(--dl-size-size-large);
+  height: 24px;
+  position: absolute;
+  align-self: center;
+}
+.home-container2 {
+  width: 100%;
+  height: 37px;
+  display: flex;
+  align-items: flex-start;
+  background-color: #e3e1e1;
+}
+.home-text1 {
+  color: #000000;
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.home-text2 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-halfunit);
+}
+.home-container3 {
+  top: 100px;
+  flex: 0 0 auto;
+  left: var(--dl-space-space-unit);
+  width: 141px;
+  height: 228px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-container4 {
+  flex: 0 0 auto;
+  width: 141px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-text3 {
+  top: 0px;
+  left: 0px;
+  color: rgb(0, 0, 0);
+  right: 0px;
+  width: auto;
+  height: 30px;
+  margin: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: flex-end;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 4px;
+  padding-left: 0px;
+  background-color: rgb(108, 159, 218);
+}
+.home-button {
+  top: 38px;
+  left: -1px;
+  width: 100%;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  transition: 0.3s;
+  border-style: solid;
+}
+.home-button:focus {
+  border-style: inset;
+}
+.home-button1 {
+  top: 82px;
+  left: -1px;
+  width: 100%;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  transition: 0.3s;
+  border-style: solid;
+}
+
+.home-container5 {
+  top: 103px;
+  flex: 0 0 auto;
+  left: 191px;
+  width: 980px;
+  height: 600px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: flex-end;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 10px;
+  margin-bottom: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+}
+.home-container6 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-radius: 10px;
+  background-color: #585757;
+}
+.home-text4 {
+  top: 6px;
+  left: 0px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.home-text5 {
+  top: 6px;
+  left: 74px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.home-text6 {
+  top: 6px;
+  left: 180px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: 175px;
+}
+.home-text7 {
+  top: 6px;
+  left: 370px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: 175px;
+}
+.home-text8 {
+  top: 6px;
+  left: 550px;
+  color: rgb(255, 255, 255);
+  bottom: 0px;
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: 175px;
+}
+.home-image {
+  top: 87px;
+  left: 243px;
+  width: 532px;
+  height: 423px;
+  margin: auto;
+  opacity: 0.4;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+}
