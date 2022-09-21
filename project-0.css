@@ -1,0 +1,327 @@
+.project0-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.project0-container1 {
+  width: 100%;
+  height: 37px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: #f15757;
+}
+.project0-text {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.project0-textinput {
+  top: 7px;
+  left: 800px;
+  width: var(--dl-size-size-large);
+  height: 24px;
+  position: absolute;
+  align-self: center;
+}
+.project0-container2 {
+  top: 112px;
+  flex: 0 0 auto;
+  left: 282px;
+  width: 861px;
+  height: 600px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: flex-end;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 10px;
+  margin-bottom: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+}
+.project0-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 30px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  border-radius: 10px;
+  background-color: #585757;
+}
+.project0-text01 {
+  top: 6px;
+  left: 0px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.project0-text02 {
+  top: 6px;
+  left: 180px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: 175px;
+}
+.project0-text03 {
+  top: 6px;
+  left: 74px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.project0-text04 {
+  top: 6px;
+  left: 370px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: 175px;
+}
+.project0-text05 {
+  top: 6px;
+  left: 550px;
+  color: rgb(255, 255, 255);
+  bottom: 0px;
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: 175px;
+}
+.project0-image {
+  top: 87px;
+  left: 242px;
+  width: 532px;
+  height: 423px;
+  margin: auto;
+  opacity: 0.4;
+  position: absolute;
+  align-self: flex-end;
+  object-fit: cover;
+}
+.project0-text06 {
+  top: 41px;
+  right: 41px;
+  position: absolute;
+}
+.project0-text07 {
+  top: 74px;
+  left: 741px;
+  position: absolute;
+}
+.project0-text08 {
+  top: 41px;
+  left: 540px;
+  position: absolute;
+}
+.project0-text09 {
+  top: 74px;
+  left: 554px;
+  position: absolute;
+}
+.project0-text10 {
+  top: 41px;
+  left: 358px;
+  position: absolute;
+}
+.project0-text11 {
+  top: 75px;
+  left: 378px;
+  position: absolute;
+}
+.project0-navlink {
+  top: 40px;
+  left: 87px;
+  position: absolute;
+  text-decoration: none;
+}
+.project0-text12 {
+  top: 75px;
+  left: 88px;
+  position: absolute;
+}
+.project0-image1 {
+  top: 67px;
+  left: 28px;
+  width: 36px;
+  height: 34px;
+  position: absolute;
+  object-fit: cover;
+}
+.project0-image2 {
+  top: 32px;
+  left: 26px;
+  width: 36px;
+  height: 34px;
+  position: absolute;
+  object-fit: cover;
+}
+.project0-container4 {
+  width: 100%;
+  height: 37px;
+  display: flex;
+  align-items: flex-start;
+  background-color: #e3e1e1;
+}
+.project0-navlink1 {
+  color: #000000;
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.project0-text13 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-halfunit);
+}
+.project0-navlink2 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.project0-text14 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-halfunit);
+}
+.project0-text15 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.project0-container5 {
+  top: 149px;
+  left: 15px;
+  width: 207px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.project0-container6 {
+  flex: 0 0 auto;
+  width: 141px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.project0-button {
+  right: -41px;
+  width: 162px;
+  bottom: -64px;
+  margin: auto;
+  position: absolute;
+  font-size: 15px;
+  text-align: center;
+  transition: 0.3s;
+  border-style: solid;
+}
+.project0-button:hover {
+  background-color: #b9b6b6;
+}
+.project0-button:active {
+  color: #f9f5f5;
+  display: flex;
+  justify-content: center;
+  background-color: #f13535;
+}
+.project0-button1 {
+  right: -40px;
+  width: 162px;
+  bottom: -121px;
+  height: 35px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  transition: 0.3s;
+  border-style: solid;
+}
+.project0-button1:hover {
+  background-color: #b9b6b6;
+}
+.project0-button1:active {
+  color: #ffffff;
+  background-color: #f13535;
+}
+.project0-text16 {
+  top: 81px;
+  left: 658px;
+  position: absolute;
+  font-size: 22px;
+}

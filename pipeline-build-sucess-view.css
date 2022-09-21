@@ -1,0 +1,482 @@
+.pipeline-build-sucess-view-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.pipeline-build-sucess-view-image {
+  top: 233px;
+  left: 479px;
+  width: 532px;
+  height: 423px;
+  margin: auto;
+  opacity: 0.4;
+  position: absolute;
+  align-self: flex-end;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-container01 {
+  top: 127px;
+  flex: 0 0 auto;
+  right: 58px;
+  width: 946px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 642px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: flex-end;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 10px;
+  margin-bottom: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+}
+.pipeline-build-sucess-view-container02 {
+  top: 153px;
+  right: 84px;
+  width: 531px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 565px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: flex-end;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  border-radius: 10px;
+  margin-bottom: auto;
+  flex-direction: column;
+  justify-content: flex-start;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+}
+.pipeline-build-sucess-view-container03 {
+  width: 100%;
+  height: 37px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  background-color: #f15757;
+}
+.pipeline-build-sucess-view-text {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.pipeline-build-sucess-view-textinput {
+  top: 7px;
+  left: 800px;
+  width: var(--dl-size-size-large);
+  height: 24px;
+  position: absolute;
+  align-self: center;
+}
+.pipeline-build-sucess-view-container04 {
+  width: 100%;
+  height: 37px;
+  display: flex;
+  align-items: flex-start;
+  background-color: #e3e1e1;
+}
+.pipeline-build-sucess-view-navlink {
+  color: #000000;
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.pipeline-build-sucess-view-text01 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-halfunit);
+}
+.pipeline-build-sucess-view-navlink1 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.pipeline-build-sucess-view-text02 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-halfunit);
+}
+.pipeline-build-sucess-view-text03 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
+.pipeline-build-sucess-view-container05 {
+  top: 149px;
+  left: 15px;
+  width: 207px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-black);
+  border-style: solid;
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.pipeline-build-sucess-view-container06 {
+  flex: 0 0 auto;
+  width: 141px;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pipeline-build-sucess-view-button {
+  right: -41px;
+  width: 162px;
+  bottom: -64px;
+  margin: auto;
+  position: absolute;
+  font-size: 15px;
+  text-align: center;
+  transition: 0.3s;
+  border-style: solid;
+}
+.pipeline-build-sucess-view-button:hover {
+  background-color: #b9b6b6;
+}
+.pipeline-build-sucess-view-button:active {
+  color: #f9f5f5;
+  display: flex;
+  justify-content: center;
+  background-color: #f13535;
+}
+.pipeline-build-sucess-view-button1 {
+  right: -40px;
+  width: 162px;
+  bottom: -121px;
+  height: 35px;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  transition: 0.3s;
+  border-style: solid;
+}
+.pipeline-build-sucess-view-button1:hover {
+  background-color: #b9b6b6;
+}
+.pipeline-build-sucess-view-button1:active {
+  color: #ffffff;
+  background-color: #f13535;
+}
+.pipeline-build-sucess-view-container07 {
+  top: 440px;
+  left: 290px;
+  width: 336px;
+  height: 286px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: solid;
+  border-width: 2px;
+  justify-content: flex-end;
+}
+.pipeline-build-sucess-view-image01 {
+  top: 18px;
+  left: 46px;
+  width: 30px;
+  height: 33px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-image02 {
+  top: 167px;
+  left: 57px;
+  width: 4px;
+  height: 27px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-image03 {
+  top: 109px;
+  left: 58px;
+  width: 4px;
+  height: 27px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-image04 {
+  top: 51px;
+  left: 58px;
+  width: 4px;
+  height: 27px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-image05 {
+  top: 75px;
+  left: 45px;
+  width: 30px;
+  height: 33px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-image06 {
+  top: 134px;
+  left: 45px;
+  width: 30px;
+  height: 33px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-image07 {
+  top: 193px;
+  left: 45px;
+  width: 30px;
+  height: 33px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-container08 {
+  top: 144px;
+  left: 289px;
+  width: 336px;
+  height: 254px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: rgba(120, 120, 120, 0.4);
+  border-style: solid;
+  border-width: 2px;
+  justify-content: flex-end;
+}
+.pipeline-build-sucess-view-text04 {
+  top: 66px;
+  left: 44px;
+  position: absolute;
+  text-align: center;
+  border-color: var(--dl-color-gray-black);
+  border-style: hidden;
+  border-width: 1px;
+}
+.pipeline-build-sucess-view-container09 {
+  left: 78px;
+  width: 174.8229217529297px;
+  bottom: 10px;
+  height: 73.39583396911621px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-end;
+}
+.pipeline-build-sucess-view-text12 {
+  left: 0px;
+  bottom: 0px;
+  position: absolute;
+  text-align: left;
+  border-color: var(--dl-color-gray-black);
+  border-style: hidden;
+  border-width: 1px;
+}
+.pipeline-build-sucess-view-text15 {
+  top: 29px;
+  left: 54.44793701171875px;
+  position: absolute;
+  text-align: left;
+  border-color: var(--dl-color-gray-black);
+  border-style: hidden;
+  border-width: 1px;
+}
+.pipeline-build-sucess-view-text18 {
+  top: 0px;
+  left: 54.90625px;
+  position: absolute;
+  text-align: left;
+  border-color: var(--dl-color-gray-black);
+  border-style: hidden;
+  border-width: 1px;
+}
+.pipeline-build-sucess-view-image08 {
+  top: 0px;
+  left: 27px;
+  width: 27px;
+  height: 22px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-image09 {
+  top: 29px;
+  left: 31px;
+  width: 18px;
+  height: 19px;
+  position: absolute;
+  object-fit: cover;
+}
+.pipeline-build-sucess-view-button2 {
+  top: 88px;
+  right: 64px;
+  width: 162px;
+  margin: auto;
+  position: absolute;
+  font-size: 15px;
+  text-align: center;
+  transition: 0.3s;
+  border-style: solid;
+}
+.pipeline-build-sucess-view-button2:hover {
+  background-color: #b9b6b6;
+}
+.pipeline-build-sucess-view-button2:active {
+  color: #f9f5f5;
+  display: flex;
+  justify-content: center;
+  background-color: #f13535;
+}
+.pipeline-build-sucess-view-text22 {
+  top: 97px;
+  left: 403px;
+  position: absolute;
+  font-size: 22px;
+}
+.pipeline-build-sucess-view-text23 {
+  top: 286px;
+  left: 363px;
+  position: absolute;
+  font-size: 22px;
+}
+.pipeline-build-sucess-view-text24 {
+  top: 641px;
+  left: 383px;
+  position: absolute;
+  font-size: 16px;
+}
+.pipeline-build-sucess-view-text25 {
+  top: 581px;
+  left: 385px;
+  position: absolute;
+  font-size: 16px;
+}
+.pipeline-build-sucess-view-text26 {
+  top: 525px;
+  left: 385px;
+  position: absolute;
+  font-size: 16px;
+}
+.pipeline-build-sucess-view-text27 {
+  top: 185px;
+  left: 669px;
+  position: absolute;
+  font-size: 16px;
+}
+.pipeline-build-sucess-view-text28 {
+  top: 469px;
+  left: 386px;
+  position: absolute;
+  font-size: 16px;
+}
+.pipeline-build-sucess-view-text29 {
+  top: 156px;
+  left: 868px;
+  position: absolute;
+  font-size: 20px;
+}
+.pipeline-build-sucess-view-text30 {
+  top: 415px;
+  left: 469px;
+  position: absolute;
+  font-size: 16px;
+}
+.pipeline-build-sucess-view-text31 {
+  top: 412px;
+  left: 292px;
+  position: absolute;
+  font-size: 20px;
+}
+.pipeline-build-sucess-view-text32 {
+  top: 181px;
+  left: 381px;
+  position: absolute;
+  font-size: 22px;
+}
+.pipeline-build-sucess-view-text33 {
+  top: 98px;
+  left: 429px;
+  position: absolute;
+  font-size: 22px;
+}
+.pipeline-build-sucess-view-navlink2 {
+  display: contents;
+}
+.pipeline-build-sucess-view-text34 {
+  top: 98px;
+  left: 288px;
+  position: absolute;
+  font-size: 22px;
+  text-decoration: none;
+}
+.pipeline-build-sucess-view-container10 {
+  top: 145px;
+  flex: 0 0 auto;
+  left: 290px;
+  width: 334px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 10px;
+  background-color: #3ec711;
+}
+.pipeline-build-sucess-view-text35 {
+  top: 4px;
+  left: 112px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 18px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700;
+  padding-top: 0px;
+  padding-left: var(--dl-space-space-unit);
+}
